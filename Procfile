@@ -1,1 +1,1 @@
-Worker: node shirt_bot.py
+worker: node shirt_bot.py
