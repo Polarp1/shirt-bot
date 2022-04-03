@@ -1,3 +1,6 @@
 regex
 aiohttp
 discord.py>=1.6.0
+git+https://github.com/Polarp1/shirt-bot
+dnspython==1.16.0 
+async-timeout==3.0.1
