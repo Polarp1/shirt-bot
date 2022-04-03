@@ -1,6 +1,6 @@
 {
-  "api_key": "YOUR_API_KEY",
-  "token": "YOUR_BOT_TOKEN",
-  "prefix": "YOUR_PREFIX YOUR_2ND_PREFIX YOUR_3RD_PREFIX ...",
-  "name": "THE_BOT_NAME"
+  "api_key": "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",
+  "token": "ZkA2q-1RXKXxGgx3auVtSTTw-ocxscx7",
+  "prefix": "m!",
+  "name": "Mav"
 }
