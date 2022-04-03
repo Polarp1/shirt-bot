@@ -3,3 +3,4 @@ aiohttp
 discord.py>=1.6.0
 dnspython==1.16.0 
 async-timeout==3.0.1
+certifi==2021.5.30
